@@ -12,7 +12,7 @@
     include("layout/navbar.php");
 ?>  
 <div class="card" style="width: 36rem;">
-  <img src="https://scontent.fbkk29-8.fna.fbcdn.net/v/t39.30808-6/449827968_26102427402736722_2532618010977970141_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=LI3NTcKQ8noQ7kNvgG8xjZb&_nc_ht=scontent.fbkk29-8.fna&oh=00_AYDLgKeyx5VAHNl1iPFOfG3JUzN9_hEhgV_MMv_Y9KmgEg&oe=66AC055A" class="card-img-top" alt="baszy">
+  <img src="https://www.credly.com/users/natthee-prommool.897a8d24">
   <div class="card-body">
     <h5 class="card-title">id: 65130332</h5>
     <p class="card-text">name: Natthee Prommool</p>
